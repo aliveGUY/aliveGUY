@@ -20,12 +20,15 @@
 </td><td valign="top" width="33%">
 
 ### Topics i'm trying to cover right now
+ - Smart contracts, Solidity, Web3.js
+ - C#
+ - Basic data structures, just as Linked lists, Queues, Stacks, Trees and so on
  - Basic Compression Algorithms, currently Huffman Coding
- - Smart contracts, Solidity
+ - Three.js, GLSL
  - Generation and Detection of Amplitude Shift Keying (ASK) using GNU
 Radio
- - Basic data structures, just as Linked lists, Queues, Stacks, Trees and so on
- - C#
+ 
+
 
 </td></tr></table>
 
