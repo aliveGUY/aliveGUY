@@ -1,5 +1,5 @@
 <h1 align="center">👋Hi there I'm Illia</h3>
-<p align="center">And I really love everything compressed, decentralized and structured 🫀</p>
+<p align="center">🔭 And I really love everything compressed, decentralized and structured 🫀</p>
 
 ---
 <table><tr><td valign="top" width="33%">
