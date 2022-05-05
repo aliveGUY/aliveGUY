@@ -2,9 +2,12 @@
 <p align="center">🌱 Code is life 🫀</p>
 
 ---
-<table><tr><td valign="top" width="33%">
 
+<table><tr><td valign="top" width="33%">
+ 
 ### What i've made so far
+ 
+ 
 - [To-Do list using really simple data structures](https://github.com/aliveGUY/webpack) - 2022-04-29
 - [Wierd looking 3D webpage using Three.js Library](https://aliveguy.github.io/of-portfolio/) - 2022-04-00
 - [Procedurally generated terrain using Unity game engine]() - 2021-08-00
@@ -32,13 +35,6 @@ Radio
 
 ---
 
-<p align="center">&nbsp;
- 
- | <img align="center" src="https://github-readme-stats.vercel.app/api?username=aliveGUY&show_icons=true&theme=outrun" alt="aliveGUY" width="500" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aliveGUY&show_icons=true&theme=outrun&layout=compact" alt="aliveGUY" width="410"/>|
-</p>
- 
----
-
 ![js](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
 ![solidy](https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black)
@@ -55,6 +51,14 @@ Radio
 ![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![json](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+
+
+<p align="center">&nbsp;
+ 
+ | Stats | Most used languages |
+ | ------ | ------ |
+ | <img align="center" src="https://github-readme-stats.vercel.app/api?username=aliveGUY&show_icons=true&theme=outrun" alt="aliveGUY" width="500" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aliveGUY&show_icons=true&theme=outrun&layout=compact" alt="aliveGUY" width="410"/> |
+</p>
 
 ---
 
