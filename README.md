@@ -1,5 +1,5 @@
 <h1 align="center">👋Hi there I'm Illia</h3>
-<p align="center">🌱 And I really love everything compressed, decentralized and structured 🫀</p>
+<p align="center">🌱 Code is life 🫀</p>
 
 ---
 <table><tr><td valign="top" width="33%">
@@ -27,10 +27,17 @@
  - Three.js, GLSL
  - Generation and Detection of Amplitude Shift Keying (ASK) using GNU
 Radio
- 
-
 
 </td></tr></table>
+
+---
+
+<p align="center">&nbsp;
+ 
+ | <img align="center" src="https://github-readme-stats.vercel.app/api?username=aliveGUY&show_icons=true&theme=outrun" alt="aliveGUY" width="500" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aliveGUY&show_icons=true&theme=outrun&layout=compact" alt="aliveGUY" width="410"/>|
+</p>
+ 
+---
 
 ![js](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
