@@ -1,6 +1,6 @@
 <h1 align="center">👋Hi there I'm Illia</h3>
 <p align="center">Front-end React developer</p>
-
+open to new job opportunities.
 ---
 
 <table><tr><td valign="top" width="33%">
