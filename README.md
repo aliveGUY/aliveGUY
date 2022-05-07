@@ -1,5 +1,5 @@
 <h1 align="center">👋Hi there I'm Illia</h3>
-<p align="center">🌱 Code is life 🫀</p>
+<p align="center">Front-end React developer</p>
 
 ---
 
