@@ -1,8 +1,5 @@
 <h1 align="center">👋Hi there I'm Illia</h3>
-<p align="center">Code is life</p>
-
-### Front-end React developer
-### Open to new job opportunities.
+<p align="center">"Sic Parvis Magna"</p>
 
 ---
 
