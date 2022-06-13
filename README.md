@@ -57,7 +57,7 @@ Radio
  
  | Stats | Most used languages |
  | ------ | ------ |
- | <img align="center" src="https://github-readme-stats.vercel.app/api?username=aliveGUY&show_icons=true&theme=outrun" alt="aliveGUY" width="500" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aliveGUY&show_icons=true&theme=outrun&layout=compact" alt="aliveGUY" width="410"/> |
+ | <img align="center" src="https://github-readme-stats.vercel.app/api?username=aliveGUY&show_icons=true&theme=outrun" alt="aliveGUY" width="500" /> |  |
 </p>
 
 ---
