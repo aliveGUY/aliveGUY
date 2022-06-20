@@ -1,5 +1,5 @@
 <h1 align="center">👋Hi there I'm Illia</h3>
-<p align="center">"Sic Parvis Magna"</p>
+<p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
 
 ---
 
