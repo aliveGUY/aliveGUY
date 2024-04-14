@@ -2,18 +2,6 @@
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
 
 
-**Tools Im using**
-
-![CMake](https://img.shields.io/badge/CMake-064F8C.svg?style=for-the-badge&logo=CMake&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=C++&logoColor=white)
-![GNU](https://img.shields.io/badge/GNU-A42E2B.svg?style=for-the-badge&logo=GNU&logoColor=white)
-
-**I am paient about native development. Currentley I learn cross-platform development for:**
-
-![Windows](https://img.shields.io/badge/Windows-0078D4.svg?style=for-the-badge&logo=Windows&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=Linux&logoColor=black)
-![Android](https://img.shields.io/badge/Android-3DDC84.svg?style=for-the-badge&logo=Android&logoColor=white)
-
 
 <p align="center">&nbsp;
  
